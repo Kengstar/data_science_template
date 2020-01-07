@@ -1,0 +1,3 @@
+raw: data dump, never edit.
+interim: save preprocessed data in here.
+external: third party dataset.

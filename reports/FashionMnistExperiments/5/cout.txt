@@ -1,0 +1,52 @@
+Run Experiment
+{'batch_size': 128, 'epochs': 15, 'lr': 0.001, 'train_split_ratio': 0.8, 'path': '', 'notes': 'Experiment description', 'cfg_dict': {}, 'seed': 737417567}
+{'batch_size': 128, 'epochs': 15, 'lr': 0.001, 'train_split_ratio': 0.8, 'path': '', 'notes': 'Experiment description', 'cfg_dict': {}, 'seed': 737417567}
+0.001
+test
+====> Epoch: 0 Average loss: 0.0003
+====> Test set loss: 0.0002
+====> Test set acc: 0.0028
+====> Epoch: 1 Average loss: 0.0003
+====> Test set loss: 0.0002
+====> Test set acc: 0.0053
+====> Epoch: 2 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0047
+====> Epoch: 3 Average loss: 0.0003
+====> Test set loss: 0.0002
+====> Test set acc: 0.0057
+====> Epoch: 4 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0060
+====> Epoch: 5 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0057
+====> Epoch: 6 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0062
+====> Epoch: 7 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0061
+====> Epoch: 8 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0060
+====> Epoch: 9 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0057
+====> Epoch: 10 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0055
+====> Epoch: 11 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0060
+====> Epoch: 12 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0061
+====> Epoch: 13 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0057
+====> Epoch: 14 Average loss: 0.0002
+====> Test set loss: 0.0002
+====> Test set acc: 0.0060
+====> Test set loss: 0.0002
+====> Test set acc: 0.0068

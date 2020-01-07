@@ -1,0 +1,10 @@
+{
+  "batch_size": 128,
+  "cfg_dict": {},
+  "epochs": 15,
+  "lr": 0.001,
+  "notes": "Experiment description",
+  "path": "",
+  "seed": 737417567,
+  "train_split_ratio": 0.8
+}
